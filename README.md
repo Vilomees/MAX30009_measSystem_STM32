@@ -3,7 +3,7 @@
 See repositoorium sisaldab lõputöö raames loodud tarkvara MAX30009 BioZ analoogliidese juhtimiseks ja impedantsi mõõtmiseks STM32WB55 mikrokontrolleriga. Süsteem koosneb kahest põhilisest osast:
 
 - **STM32 firmware** – mikrokontrolleri kood MAX30009 seadistamiseks, mõõtmise käivitamiseks ja RAW-andmete edastamiseks.
-- **PC GUI** – Python/PyQt5 põhine arvutipoolne juhtpaneel mõõtmiste seadistamiseks, käivitamiseks, kuvamiseks ja salvestamiseks.
+- **PC GUI** – Python/PyQt5 põhine arvutipoolne juhtpaneel mõõtmiste seadistamiseks, käivitamiseks, kuvamiseks, kalibreerimiseks ja salvestamiseks.
 
 ## Projekti üldine eesmärk
 
